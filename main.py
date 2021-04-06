@@ -1,3 +1,3 @@
 def main()
-    print("Hello world!")
+    print("Hell!")
     return 0
