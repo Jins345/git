@@ -1,2 +1,3 @@
-print("Hello world!")
-i
+def main()
+    print("Hello world!")
+    return 0
